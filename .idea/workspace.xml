@@ -5,16 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/primeri/EncryptWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeri/PrimeNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeri/charInWord.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02/Task04_2023-02-28_21-24formula.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/note/PrimeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/note/SimplyPrimeNumbers.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2MNROUvagzNzIwAPqYicObUXSgq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +40,64 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/misha/IdeaProjects/Alishev2023/src/Day02"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Day02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task04">
+    <configuration name="SimplyPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="note.SimplyPrimeNumbers" />
+      <module name="Alishev2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.Task03" />
+      <module name="Alishev2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.Task04" />
+      <module name="Alishev2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Task03" />
+        <item itemvalue="Application.SimplyPrimeNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,9 +1,11 @@
-public class PrimeNumbers { // простые числа
+package note;
+
+public class SimplyPrimeNumbers { // простые числа
     public static void main(String[] args) {
-        PrimeNumbers.isPrime(1); // false
-        PrimeNumbers.isPrime(2); // true
-        PrimeNumbers.isPrime(3); // true
-        PrimeNumbers.isPrime(4); // false
+        SimplyPrimeNumbers.isPrime(1); // false
+        SimplyPrimeNumbers.isPrime(2); // true
+        SimplyPrimeNumbers.isPrime(3); // true
+        SimplyPrimeNumbers.isPrime(4); // false
     }
 
     public static boolean isPrime(int number) {
