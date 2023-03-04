@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day05/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05/Motorbike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/App01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/App02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/Day05/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/Day05/Task02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,11 +25,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Day04/Task01.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2MNROUvagzNzIwAPqYicObUXSgq" />
   <component name="ProjectLevelVcsManager">
@@ -37,32 +45,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/misha/IdeaProjects/Alishev2023/src/Day02",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/misha/IdeaProjects/Alishev2023&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Day02" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stepik" />
       <recent name="Day05" />
       <recent name="Day04" />
       <recent name="Day03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task02">
-    <configuration name="Day04.Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.Task02" />
+  <component name="RunManager" selected="Application.zaur.App01">
+    <configuration name="App01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.App01" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04.*" />
+          <option name="PATTERN" value="stepik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05.Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05.Task01" />
+    <configuration name="App02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.App02" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05.*" />
+          <option name="PATTERN" value="stepik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.Task03" />
+    <configuration name="zaur.App01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaur.App01" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04.*" />
+          <option name="PATTERN" value="zaur.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.Task04" />
+    <configuration name="zaur.App02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaur.App02" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04.*" />
+          <option name="PATTERN" value="zaur.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zaur.App01" />
+        <item itemvalue="Application.zaur.App02" />
+        <item itemvalue="Application.App02" />
+        <item itemvalue="Application.App01" />
         <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.Day05.Task01" />
-        <item itemvalue="Application.Task04" />
-        <item itemvalue="Application.Task03" />
-        <item itemvalue="Application.Day04.Task02" />
       </list>
     </recent_temporary>
   </component>
@@ -142,5 +151,32 @@
       <updated>1677606023484</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zaur/App01.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zaur/App02.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
