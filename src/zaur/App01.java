@@ -10,6 +10,7 @@ public class App01 {
     public static void main(String[] args) {
         // 1. мы на прямую передаем аргументы в функцию/метод.
         App01.sum(1, 12, 32);
+
         }
 }
 
