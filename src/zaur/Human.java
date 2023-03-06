@@ -1,5 +1,5 @@
 package zaur;
-
+//TODO: constructor присвоение значениям параметров
 public class Human {
     String name;
     Car3 car;
@@ -22,8 +22,8 @@ class HumanTest {
 class Car3 { // это класс >> 2
     Car3(String cvet, String dvigatel) { // это конструктор внутри класса >> 4
 //        Добавляем значения >>5
-        color = cvet;
-        engine = dvigatel;
+        color = cvet; // присваивается значение параметра
+        engine = dvigatel; // присваивается значение параметра
 
     }
  
