@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/000_как смотреть файлы.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/001_Ubuntu_горячие клавиши работа с интерфейсом.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/003_23 Установка PostgresSQL mySQL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/004 GREP поиск внутри файла.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/005_terminal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/006 Навигация по файловой системе.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/007 работа с редакторами.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/008 Создание файлов переименование перемещение удаление поиск.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/009 История комманд в LINUX.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/010 работа с процессами и дисками.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/011 flameshot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/012 find.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/013 java_home устанвка.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/014_youtube.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/016_установка программ через pip.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/bluetooth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/pip_md.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/string_md.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/tmux_md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/Как установить Yandex Disk в Ubuntu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/настройки клавиш Ubuntu 2022-05-09-129-09-53-43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/SQL/grep.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/SQL/УДОБНЫЕ КОММАНДЫ_007.SQL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/SQL/УДОБНЫЕ КОММАНДЫ_008.SQL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/SQL/УДОБНЫЕ КОММАНДЫ_009.SQL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/SQL_md/LAMP_privileigi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/SQL_md/stepik.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/SQL_md/stepikdatabases.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/java_md/Абстрация java_md.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/vim_md/Idea.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/vim_md/Vim_IDEa_Eclipse.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/vim_md/vimrc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/vscode/VS Code мультикурсор.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/win_md.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MarkDown/быстрые заметки.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaur/App0201.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zaur/App55.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/zaur/App02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/zaur/App02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkDown/002_Установка программ.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/002_Установка программ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkDown/GitGithub_v03.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/GitGithub_v03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zaur/App02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zaur/App02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,15 +42,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/misha/IdeaProjects/Alishev2023/src/MarkDown",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/misha/IdeaProjects/Alishev2023/src/MarkDown&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/MarkDown" />
