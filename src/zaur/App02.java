@@ -11,7 +11,6 @@ public class App02 {
         int result = a + b + c;
         return result;
     }
-
     public static void main(String[] args) {
         // 1. мы на прямую передаем аргументы в функцию/метод.
         App02.sum(14,23,54);
@@ -22,7 +21,7 @@ public class App02 {
 
         App02 t = new App02();
         int sumAll = t.sum(1, 12, 32);
-        int sumAll1 = t.sum(3, 44, 57);
+
         }
 }
 
