@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/002_Установка программ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/GitGithub_v03.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +56,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.hexlet" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/MarkDown" />
       <recent name="$PROJECT_DIR$/src/MarkDown/java_md" />
@@ -73,20 +80,7 @@
       <recent name="Day03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App55">
-    <configuration name="App01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaur.App01" />
-      <module name="Alishev2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zaur.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.AppArray12">
     <configuration name="App02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zaur.App02" />
       <module name="Alishev2023" />
@@ -126,12 +120,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaur.MethodOverloadingTest" />
+    <configuration name="AppArray11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.hexlet.AppArray11" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaur.*" />
+          <option name="PATTERN" value="io.hexlet.AppArray11" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppArray12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.hexlet.AppArray12" />
+      <module name="Alishev2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hexlet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +148,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppArray12" />
         <item itemvalue="Application.App55" />
         <item itemvalue="Application.App0201" />
         <item itemvalue="Application.App02" />
-        <item itemvalue="Application.App01" />
-        <item itemvalue="Application.MethodOverloadingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +214,11 @@
           <url>file://$PROJECT_DIR$/src/zaur/App55.java</url>
           <line>7</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/AppArray12.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -210,3 +210,17 @@ git stash
 [github](https://www.youtube.com/channel/UCK5d3n3kfkzlArMccS0TTXA)
 
 [15:11 логическую цепочку превращает в схему МаркДаун](https://www.youtube.com/watch?v=GnK6rci9Nsc)
+
+
+
+```
+git config --list
+```
+
+
+```
+vim ~/.gitconfig
+```
+user.name=MikeBezhaneishvili
+user.email=mike215misha@gmail.com
+

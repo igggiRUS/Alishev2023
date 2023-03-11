@@ -1,0 +1,35 @@
+sudp apt install tmux
+
+создать сессию
+
+`tmux new-session -s test`
+
+присоедениться к сессии
+
+`tmux attach -t test`
+
+создать окно
+`0 Window` + ^B
+
+`c` означает create создать окно
+
+
+`1 Window` +^B
+Переход с окна в окно 
+^B + 0 ^B + 1
+
+вертикальный сплит
+^B + `%`
+
+горизонтальный сплит
+^B + `"`
+перейти на верх
+^b (стрелка в верх)
+
+отсоединение от сессии
+^B+de (detouch)
+
+
+https://www.youtube.com/watch?v=1Y2CD4WnbP0&t=288s
+
+826
