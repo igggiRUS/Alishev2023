@@ -1,4 +1,4 @@
-sudp apt install tmux
+sudo apt install tmux
 
 создать сессию
 

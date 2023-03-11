@@ -31,8 +31,8 @@ class AppArray12 {
     // BEGIN (write your solution here)
 
     public static int getSameCount(int[] coll1, int[] coll2) {
-        var uniq1 = Utils.uniq(coll1);
-        var uniq2 = Utils.uniq(coll2);
+        var uniq1 = Utils12.uniq(coll1);
+        var uniq2 = Utils12.uniq(coll2);
 
         var count = 0;
 

@@ -1,49 +1,35 @@
 package io.hexlet;
-
-import java.util.Arrays;
-
-class AppArray11 {
+//import org.apache.commons.lang3.ArrayUtils;
+//после импорта можно все раскоментировать
+public class AppArray11 {
     public static void main(String[] args) {
-        int[] numbers1 = {};
-        AppArray11.getSameParity(numbers1); // []
+        var text1 = "When you play the game of thrones, you win or you die";
+        String[] stopWords1 = {"die", "play"};
+        var result1 = AppArray11.makeCensored(text1, stopWords1);
+        System.out.println(result1);
+// => "When you $#%! the game of thrones, you win or you $#%!"
 
-        int[] numbers2 = {1, 2, 3};
-        AppArray11.getSameParity(numbers2); // [1, 3]
-
-        int[] numbers3 = {1, 2, 8};
-        AppArray11.getSameParity(numbers3); // [1]
-
-        int[] numbers4 = {2, 2, 8};
-        AppArray11.getSameParity(numbers4); // [2, 2, 8]
-
-        int[] numbers5 = {-3, 2, 1};
-        AppArray11.getSameParity(numbers5); // [-3, 1]
-//
-
+        var text2 = "chicken chicken? chicken! chicken";
+        String[] stopWords2 = {"?", "chicken"};
+        var result2 = AppArray11.makeCensored(text2, stopWords2);
+        System.out.println(result2);
+// => "$#%! chicken? chicken! $#%!"
     }
-    // BEGIN
-    public static int[] getSameParity(int[] numbers) {
 
-        var numbersCount = numbers.length;
-        if (numbersCount == 0) {
-            return new int[0];
-        }
+        // BEGIN
+        public static String makeCensored(String text, String[] stopWords) {
+            var words = text.split(" ");
 
-        int[] items = new int[numbers.length];
-        int firstIndex = numbers[0];
-        boolean remainder = Math.abs(firstIndex) % 2 == 0;
+            var wordsCount = words.length;
+            var censoredWords = new String[wordsCount];
 
-        int newIndex = 0;
-
-        for (var i = 0; i < numbers.length; i++) {
-            int currentElementIn = numbers[i];
-            boolean currentRemainder = Math.abs(currentElementIn) % 2 == 0;
-
-            if (currentRemainder == remainder) {
-                items[newIndex] = numbers[i];
-                newIndex++;
+            for (var i = 0; i < wordsCount; i++) {
+                var word = words[i];
+//                var newWord = ArrayUtils.contains(stopWords, word) ? "$#%!" : word;
+//                censoredWords[i] = newWord;
             }
+
+            return String.join(" ", censoredWords);
         }
-        return Arrays.copyOfRange(items, 0, newIndex);
+        // END
     }
-}
