@@ -103,3 +103,7 @@ grep -P -iwoPf patterns.txt ./*.md > mike215out.txt
 ```
 grep -iwnrl -C 0 "что искать внутри файла" ./* .md
 ```
+поиск всех строк где есть слово .bashrc
+```dtd
+grep aliases .brashrc
+```

@@ -1,4 +1,4 @@
-package io.hexlet;
+package note;
 
 import java.util.Arrays;
 

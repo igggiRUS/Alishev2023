@@ -5,28 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/AppArray11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/AppArray11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/AppArray12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/AppArray12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkDown/Linux_md/string_md.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkDown/java_md/string_md.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkDown/Linux_md/tmux_md" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/tmux_md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/AppArray12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/Utils12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/Linux_md/string_md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/Linux_md/tmux_md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/Linux_md/tmux_md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/ArrayExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/MyArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/MyArrayUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/MyArrayUtils1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarkDown/Linux_md/004 GREP поиск внутри файла.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/004 GREP поиск внутри файла.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/note/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +58,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/misha/IdeaProjects/Alishev2023/src/MarkDown&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -98,13 +86,13 @@
       <recent name="Day04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrayUtils1">
+  <component name="RunManager" selected="Application.MyArrayUtils">
     <configuration name="AppArray12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.hexlet.AppArray12" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.hexlet.*" />
+          <option name="PATTERN" value="note.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,7 +105,7 @@
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.hexlet.*" />
+          <option name="PATTERN" value="note.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.hexlet.ArrayExample" />
+      <option name="MAIN_CLASS_NAME" value="note.ArrayExample" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.hexlet.*" />
+          <option name="PATTERN" value="note.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,7 +131,7 @@
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.hexlet.*" />
+          <option name="PATTERN" value="note.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,7 +144,7 @@
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.hexlet.*" />
+          <option name="PATTERN" value="note.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,8 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyArrayUtils1" />
         <item itemvalue="Application.MyArrayUtils" />
+        <item itemvalue="Application.MyArrayUtils1" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.AppDelete" />
         <item itemvalue="Application.AppArray12" />
@@ -235,19 +223,9 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/io/hexlet/BubbleSort.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/io/hexlet/BubbleSort.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="61" />
+          <line>3</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
