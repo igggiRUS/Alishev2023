@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/methodFunctionExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/Linux_md/string_md.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/Linux_md/tmux_md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/MarkDown/Linux_md/tmux_md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/ArrayExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/MyArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/MyArrayUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/MyArrayUtils1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkDown/Linux_md/004 GREP поиск внутри файла.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkDown/Linux_md/004 GREP поиск внутри файла.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/note/ArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/AppArray13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/MyArrayUtils1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/Utils12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/Utils12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +78,11 @@
       <recent name="$PROJECT_DIR$/src/Day02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/io/hexlet/array" />
       <recent name="$PROJECT_DIR$/src/MarkDown/java_md" />
       <recent name="$PROJECT_DIR$/src/MarkDown/Linux_md" />
       <recent name="$PROJECT_DIR$/src/MarkDown/git_md" />
       <recent name="$PROJECT_DIR$/src/MarkDown" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="io.hexlet" />
@@ -86,20 +92,7 @@
       <recent name="Day04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrayUtils">
-    <configuration name="AppArray12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.hexlet.AppArray12" />
-      <module name="Alishev2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="note.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.methodFunctionExample">
     <configuration name="AppDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.hexlet.AppDelete" />
       <module name="Alishev2023" />
@@ -152,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="methodFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.hexlet.oop.methodFunctionExample" />
+      <module name="Alishev2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hexlet.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.methodFunctionExample" />
         <item itemvalue="Application.MyArrayUtils" />
         <item itemvalue="Application.MyArrayUtils1" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.AppDelete" />
-        <item itemvalue="Application.AppArray12" />
       </list>
     </recent_temporary>
   </component>
@@ -223,9 +229,14 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/io/hexlet/MyArrayUtils1.java</url>
+          <url>file://$PROJECT_DIR$/src/io/hexlet/array/MyArrayUtils1.java</url>
           <line>3</line>
           <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/oop/methodFunctionExample.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
