@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray02 {
         public static String[] getWeekends(String format) {

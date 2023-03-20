@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray04 {
     public static String[] addPrefix(String[] names, String prefix) {

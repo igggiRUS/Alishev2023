@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray06 {
     public static int mult(int[] numbers) {

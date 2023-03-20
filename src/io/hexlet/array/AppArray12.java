@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 class AppArray12 {
     /**

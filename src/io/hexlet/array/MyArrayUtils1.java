@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 import java.util.Arrays;
 //TODO: bubble sorts
 class MyArrayUtils {

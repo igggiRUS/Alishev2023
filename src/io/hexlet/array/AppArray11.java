@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 //import org.apache.commons.lang3.ArrayUtils;
 //после импорта можно все раскоментировать
 public class AppArray11 {

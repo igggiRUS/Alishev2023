@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray05 {
     public static int calculateSum(int[] numbers) {

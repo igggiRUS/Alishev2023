@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray08 {
     public static int getTotalAmount(String[] money, String currency) {

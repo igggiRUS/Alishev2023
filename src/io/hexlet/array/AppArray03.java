@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray03 {
         public static int[] swap(int[] numbers) {

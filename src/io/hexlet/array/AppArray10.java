@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray10 {
     public static String buildDefinitionList(String[][] definitions) {

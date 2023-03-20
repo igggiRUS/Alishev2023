@@ -1,4 +1,4 @@
-package io.hexlet;
+package io.hexlet.array;
 
 public class AppArray09 {
     public static String getSuperSeriesWinner(int[][] scores) {
