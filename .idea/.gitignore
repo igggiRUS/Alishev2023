@@ -11,6 +11,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/shelf
+.idea/**/out
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -54,7 +56,7 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
-out/
+out/*
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -85,6 +87,7 @@ fabric.properties
 # that are supposed to be shared within teams.
 
 .idea/*
+.idea/out/*
 
 !.idea/codeStyles
 !.idea/runConfigurations
