@@ -1,6 +1,6 @@
 package Day05;
 
-public class Car {
+public class Car { // файл без конструктора только геттеры сеттеры
     public int getYear() {
         return year;
     }
@@ -25,7 +25,7 @@ public class Car {
         this.color = color;
     }
 
-//    что бы не нарушать Task01 принципы инкапсуляции мы сделали приватными примитивы
+    //    что бы не нарушать Task01 принципы инкапсуляции мы сделали приватными примитивы
 //TODO: alt+insert (getter and setter) (constructor)
     private int year;
     private String model;

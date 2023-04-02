@@ -1,10 +1,6 @@
 package Day05;
 
 public class Motorbike {
-    public int getYear() {
-        return year;
-    }
-
     public String getModel() {
         return model;
     }
@@ -13,19 +9,21 @@ public class Motorbike {
         return color;
     }
 
+    public int getYear() {
+        return year;
+    }
+
 
     // экземпляры класса this
 
-    public Motorbike(int year, String model, String color) {
-        this.year = year;
+    public Motorbike(String model, String color, int year) { // конструктор
         this.model = model;
         this.color = color;
+        this.year = year;
     }
 
     //    что бы не нарушать Task01 принципы инкапсуляции мы сделали приватными примитивы
 //TODO: alt+insert (setter) (constructor)
-
-
 
 
     private int year;

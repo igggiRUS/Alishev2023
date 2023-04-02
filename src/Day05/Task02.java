@@ -9,7 +9,7 @@ package Day05;
 public class Task02 {
     public static void main(String[] args) {
         //    передавать параметры в той же последовательности что и в конструкторе
-        Motorbike motorbike = new Motorbike(2010, "kawasaki", "red");
+        Motorbike motorbike = new Motorbike("Kawasaki", "red", 2015);
         System.out.println(motorbike.getModel() + "\n" +
                 motorbike.getYear() + "\n" +
                 motorbike.getColor());
