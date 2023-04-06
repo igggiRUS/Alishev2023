@@ -5,33 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day05/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05/Task00.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Ariplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Motorbike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07/Ariplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/App0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/AppUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenaratePass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/OOP05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/Url05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteBunny/lesson15/ConstructorFlower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteBunny/lesson15/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteBunny/lesson15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/misha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08/Ariplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09/Task1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09/Task1/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09/Task2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aaa/Aa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/PasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/SimplePasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/SuperPasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/Geo/Geometric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/OOP9/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/OOP9/geomethy/Quadrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/MainTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SolutionBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SolutionSmallMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SolutionTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SoutionElIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temp/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/Day05/Motorbike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/Day05/Motorbike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/Day05/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/Day05/Task02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/oop/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/oop/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day05/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day05/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day05/Motorbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day05/Motorbike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day05/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day05/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alishev2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Alishev2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/Day01/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/Day01/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day01/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day01/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day07/Ariplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day07/Ariplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day07/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day07/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -53,6 +73,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Day04/Task01.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/zz/Aa.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,6 +86,8 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -75,12 +98,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/misha/IdeaProjects/Alishev2023/src/Day07",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "/home/misha/IdeaProjects/Alishev2023",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="leetcode" />
+      <recent name="io.hexlet.oop.OOP9" />
       <recent name="io.hexlet.oop" />
       <recent name="io.hexlet" />
     </key>
@@ -99,20 +127,20 @@
       <recent name="$PROJECT_DIR$/src/MarkDown" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode" />
+      <recent name="Day08" />
       <recent name="Day05" />
       <recent name="io.hexlet" />
       <recent name="zaur" />
-      <recent name="stepik" />
-      <recent name="Day04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task03">
-    <configuration name="Day06.Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06.Task01" />
+  <component name="RunManager" selected="Application.MainTwoSum">
+    <configuration name="AppArray11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.hexlet.array.AppArray11" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06.*" />
+          <option name="PATTERN" value="io.hexlet.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05.Task00" />
+    <configuration name="Day03.Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.Task01" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05.*" />
+          <option name="PATTERN" value="Day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05.Task01" />
+    <configuration name="MainTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.twoSum.MainTwoSum" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05.*" />
+          <option name="PATTERN" value="leetcode.twoSum.SolutionTwoSum" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06.Task02" />
+    <configuration name="SolutionTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.twoSum.SolutionTwoSum" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06.*" />
+          <option name="PATTERN" value="leetcode.twoSum.SolutionTwoSum" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +188,11 @@
       </method>
     </configuration>
     <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06.Task03" />
+      <option name="MAIN_CLASS_NAME" value="Day02.Task03" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06.*" />
+          <option name="PATTERN" value="Day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,15 +202,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTwoSum" />
+        <item itemvalue="Application.SolutionTwoSum" />
+        <item itemvalue="Application.Day03.Task01" />
         <item itemvalue="Application.Task03" />
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.Day06.Task01" />
-        <item itemvalue="Application.Task00" />
-        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.AppArray11" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="" />
@@ -272,6 +303,40 @@
           <line>6</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Solution35.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/hexlet/array/AppArray11.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day01/Task02.java</url>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/twoSum/SolutionBest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/twoSum/SolutionTwoSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/twoSum/SolutionTwoSum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/twoSum/SolutionTwoSum.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/io/hexlet/oop/methodFunctionExample.java</url>
           <line>17</line>
@@ -289,5 +354,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

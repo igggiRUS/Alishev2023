@@ -1,4 +1,5 @@
 package io.hexlet.array;
+
 //import org.apache.commons.lang3.ArrayUtils;
 //после импорта можно все раскоментировать
 public class AppArray11 {
@@ -16,20 +17,20 @@ public class AppArray11 {
 // => "$#%! chicken? chicken! $#%!"
     }
 
-        // BEGIN
-        public static String makeCensored(String text, String[] stopWords) {
-            var words = text.split(" ");
+    // BEGIN
+    public static String makeCensored(String text, String[] stopWords) {
+        var words = text.split(" ");
 
-            var wordsCount = words.length;
-            var censoredWords = new String[wordsCount];
+        var wordsCount = words.length;
+        var censoredWords = new String[wordsCount];
 
-            for (var i = 0; i < wordsCount; i++) {
-                var word = words[i];
+        for (var i = 0; i < wordsCount; i++) {
+            var word = words[i];
 //                var newWord = ArrayUtils.contains(stopWords, word) ? "$#%!" : word;
 //                censoredWords[i] = newWord;
-            }
-
-            return String.join(" ", censoredWords);
         }
-        // END
+
+        return String.join(" ", censoredWords);
     }
+    // END
+}

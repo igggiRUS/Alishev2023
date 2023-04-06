@@ -56,14 +56,23 @@ public class Ariplane {
     }
 
 
-
-
     // "Изготовитель: … , год выпуска: … , длина: … , вес: …, объем топлива в баке: …"
     public void info() {
         System.out.println("Изготовитель " + producer + ", год выпуска: " + year
                 + ", длина:" + length + ", вес:" + weight + ", объем топлива в баке: " + fuel);
     }
+
     public void fillUp(int inputFuel) {
         fuel += inputFuel; // заполнили топливом
+    }
+
+    public static void compareAirplanes(Ariplane ariplane1, Ariplane ariplane2) {
+        if (ariplane1.getLength() > ariplane2.getLength()) {
+            System.out.println("первый самолет длиннее");
+        } else if (ariplane1.getLength() < ariplane2.getLength()) {
+            System.out.println("второй самолет длиннее");
+        } else {
+            System.out.println("длинны самолетов равны");
+        }
     }
 }

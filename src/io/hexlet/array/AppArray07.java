@@ -21,6 +21,7 @@ class AppArray07 {
 //
 
     }
+
     // BEGIN
     public static int[] getSameParity(int[] numbers) {
 

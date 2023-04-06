@@ -6,8 +6,10 @@
 package Day01;
 
 public class Task01 {
+
+    @SuppressWarnings("checkstyle:WhitespaceAfter")
     public static void main(String[] args) {
-        for(int counter = 0; counter < 10; ++counter) {
+        for (int counter = 0; counter < 10; ++counter) {
             System.out.println("JAVA ");
         }
 

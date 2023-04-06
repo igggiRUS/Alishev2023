@@ -1,21 +1,14 @@
 package Day07;
 
-import Day06.Car;
-import Day06.Motorbike;
-
+/**
+ * В классе Самолет создать статический метод, который в качестве аргументов принимает два объекта (два самолета)
+ * и выводит сообщение в консоль о том, какой из самолетов длиннее.
+ */
 public class Task01 {
     public static void main(String[] args) {
-        Car car = new Car();
-        car.setColor("black");
-        car.setModel("audi");
-        car.setYear(2015);
-        Motorbike motorbike = new Motorbike("kawasaki", "blue", 2018);
+        Ariplane ariplane1 = new Ariplane("boening", 2021, 40, 4000);
+        Ariplane ariplane2 = new Ariplane("boening", 2021, 40, 4000);
 
-        car.info();
-        motorbike.info();
-
-        System.out.println(car.yearDifference(2023));
-        System.out.println(motorbike.yearDifference(2023));
-
+        Ariplane.compareAirplanes(ariplane1, ariplane2);
     }
 }
