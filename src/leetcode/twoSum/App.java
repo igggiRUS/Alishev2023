@@ -1,6 +1,6 @@
-package leetcode.twoSum;
-
-public class App {
-			System.gc();
-
-}
+//package leetcode.twoSum;
+//
+//public class App {
+//			System.gc();
+//
+//}

@@ -4,53 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/misha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08/Ariplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09/Task1/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09/Task1/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09/Task2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aaa/Aa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/PasswordGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/SimplePasswordGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/SuperPasswordGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/GenInterFace/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/Geo/Geometric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/OOP9/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/oop/OOP9/geomethy/Quadrate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/MainTwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SolutionBest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SolutionSmallMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SolutionTwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/twoSum/SoutionElIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/temp/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="Commit Alishev Generic2">
+      <change afterPath="$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/GeneircIntSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alishev2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Alishev2023.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/Day01/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/Day01/Task01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alishev2023/io/hexlet/array/AppArray11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day01/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day01/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07/Ariplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day07/Ariplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day07/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day07/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/hexlet/array/AppArray11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/array/AppArray11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/twoSum/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/twoSum/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -81,8 +49,11 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2MNROUvagzNzIwAPqYicObUXSgq" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -95,29 +66,42 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/misha/IdeaProjects/Alishev2023",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/mike2/IdeaProjects/Alishev2023/src/Interfaces1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "DeviceSpec"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Interfaces" />
       <recent name="leetcode" />
       <recent name="io.hexlet.oop.OOP9" />
       <recent name="io.hexlet.oop" />
       <recent name="io.hexlet" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mike2\IdeaProjects\Alishev2023\src\Interfaces1" />
       <recent name="$PROJECT_DIR$/src/Day07" />
       <recent name="$PROJECT_DIR$/src/Day06" />
       <recent name="$PROJECT_DIR$/src/MarkDown" />
       <recent name="$PROJECT_DIR$/src/MarkDown/java_md" />
-      <recent name="$PROJECT_DIR$/src/zaur" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/io/hexlet/array" />
@@ -127,20 +111,20 @@
       <recent name="$PROJECT_DIR$/src/MarkDown" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Interfaces" />
       <recent name="leetcode" />
       <recent name="Day08" />
       <recent name="Day05" />
       <recent name="io.hexlet" />
-      <recent name="zaur" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainTwoSum">
-    <configuration name="AppArray11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.hexlet.array.AppArray11" />
+  <component name="RunManager" selected="Application.CollectionAlishev.LinkedList005.Generic.Test">
+    <configuration name="CollectionAlishev.LinkedList005.Generic.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAlishev.LinkedList005.Generic.Test" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.hexlet.array.*" />
+          <option name="PATTERN" value="CollectionAlishev.LinkedList005.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day03.Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03.Task01" />
+    <configuration name="GeneircIntSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAlishev.LinkedList005.Generic.GeneircIntSwap" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day03.*" />
+          <option name="PATTERN" value="CollectionAlishev.LinkedList005.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.twoSum.MainTwoSum" />
+    <configuration name="GenericSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAlishev.LinkedList005.Generic.GenericSwap" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.twoSum.SolutionTwoSum" />
+          <option name="PATTERN" value="CollectionAlishev.LinkedList005.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.twoSum.SolutionTwoSum" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.Test" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.twoSum.SolutionTwoSum" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.Task03" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.Test2" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainTwoSum" />
-        <item itemvalue="Application.SolutionTwoSum" />
-        <item itemvalue="Application.Day03.Task01" />
-        <item itemvalue="Application.Task03" />
-        <item itemvalue="Application.AppArray11" />
+        <item itemvalue="Application.CollectionAlishev.LinkedList005.Generic.Test" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GenericSwap" />
+        <item itemvalue="Application.GeneircIntSwap" />
       </list>
     </recent_temporary>
   </component>
@@ -221,8 +205,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677606023484</updated>
+      <workItem from="1707150734392" duration="10952000" />
+      <workItem from="1707170041353" duration="26000" />
+      <workItem from="1707170086428" duration="3597000" />
+      <workItem from="1707235093975" duration="3434000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Alishev GenericBox">
+      <option name="closed" value="true" />
+      <created>1707158687906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707158687906</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Alishev GenericSwap">
+      <option name="closed" value="true" />
+      <created>1707158703110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707158703110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -234,6 +242,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Alishev GenericBox" />
+    <MESSAGE value="Commit Alishev GenericSwap" />
+    <MESSAGE value="Commit Alishev Generic2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Alishev Generic2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -337,6 +351,16 @@
           <line>6</line>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/GeneircIntSwap.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/GeneircIntSwap.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/io/hexlet/oop/methodFunctionExample.java</url>
           <line>17</line>
@@ -345,6 +369,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/GeneircIntSwap.java</url>
+          <line>5</line>
+          <properties class="CollectionAlishev.LinkedList005.Generic.GeneircIntSwap" method="swap">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/GeneircIntSwap.java</url>
+          <line>15</line>
+          <properties class="CollectionAlishev.LinkedList005.Generic.GeneircIntSwap" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/io/hexlet/oop/Url05.java</url>
