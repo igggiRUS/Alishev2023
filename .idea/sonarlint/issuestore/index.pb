@@ -1,0 +1,7 @@
+
+c
+3src/JavaCollectionFramework2024/ArrayList/Test.java,a\7\a73328f5782deb7601efc66d63cba91adbfee14c
+d
+4src/JavaCollectionFramework2024/ArrayList/Main1.java,4\8\488810cef5dca9ea34ff3424e686d2ee55ad7ada
+l
+<src/JavaCollectionFramework2024/ArrayList/ArrayListFile.java,3\d\3dcf4f25fce638813a2e28cf29a9fba65c9f664a

@@ -5,19 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815eac13-ebf1-4b29-ab11-8e06f06bb209" name="Changes" comment="Commit Alishev Generic2">
-      <change afterPath="$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/GeneircIntSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/488810cef5dca9ea34ff3424e686d2ee55ad7ada" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a73328f5782deb7601efc66d63cba91adbfee14c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/8/488810cef5dca9ea34ff3424e686d2ee55ad7ada" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/7/a73328f5782deb7601efc66d63cba91adbfee14c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alishev20231.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/ArrayListFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramework2024/HadhMap/LinkedListArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramework2024/LinkedList/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/Collection/ArrayListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/Collection/ArrayListMEthod3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/Collection/ArrayListMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/Collection/ArrayListMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/Collection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/Collection/showTheAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/JavaEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/temp/OverrideVsOVerload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/temp/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zaur/temp/Student1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/twoSum/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/twoSum/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alishev2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Alishev2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alishev2023/temp/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temp/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zaur/temp/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,39 +81,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mike2/IdeaProjects/Alishev2023/src/Interfaces1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mike2/IdeaProjects/Alishev2023/src/Interfaces1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "DeviceSpec"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;DeviceSpec&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="zaur" />
       <recent name="Interfaces" />
       <recent name="leetcode" />
       <recent name="io.hexlet.oop.OOP9" />
       <recent name="io.hexlet.oop" />
-      <recent name="io.hexlet" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mike2\IdeaProjects\Alishev2023\src\Interfaces1" />
@@ -118,13 +138,13 @@
       <recent name="io.hexlet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionAlishev.LinkedList005.Generic.Test">
-    <configuration name="CollectionAlishev.LinkedList005.Generic.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAlishev.LinkedList005.Generic.Test" />
+  <component name="RunManager" selected="Application.LinkedListArrayList">
+    <configuration name="ArrayListFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionFramework2024.ArrayList.ArrayListFile" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAlishev.LinkedList005.Generic.*" />
+          <option name="PATTERN" value="JavaCollectionFramework2024.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeneircIntSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAlishev.LinkedList005.Generic.GeneircIntSwap" />
+    <configuration name="ArrayListMEthod3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zaur.Collection.ArrayListMEthod3" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAlishev.LinkedList005.Generic.*" />
+          <option name="PATTERN" value="zaur.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +165,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAlishev.LinkedList005.Generic.GenericSwap" />
+    <configuration name="LinkedListArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionFramework2024.HadhMap.LinkedListArrayList" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAlishev.LinkedList005.Generic.*" />
+          <option name="PATTERN" value="JavaCollectionFramework2024.HadhMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionFramework2024.ArrayList.Main1" />
+      <module name="Alishev2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCollectionFramework2024.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,24 +192,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces.Test" />
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionFramework2024.ArrayList.Test" />
       <module name="Alishev2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces.Test2" />
-      <module name="Alishev2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interfaces.*" />
+          <option name="PATTERN" value="JavaCollectionFramework2024.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionAlishev.LinkedList005.Generic.Test" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.LinkedListArrayList" />
+        <item itemvalue="Application.ArrayListFile" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.GenericSwap" />
-        <item itemvalue="Application.GeneircIntSwap" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.ArrayListMEthod3" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +228,18 @@
       <workItem from="1707150734392" duration="10952000" />
       <workItem from="1707170041353" duration="26000" />
       <workItem from="1707170086428" duration="3597000" />
-      <workItem from="1707235093975" duration="3434000" />
+      <workItem from="1707235093975" duration="17366000" />
+      <workItem from="1707324392035" duration="66000" />
+      <workItem from="1707573152810" duration="2848000" />
+      <workItem from="1707576085007" duration="4000" />
+      <workItem from="1707678738019" duration="10000" />
+      <workItem from="1707678852393" duration="748000" />
+      <workItem from="1707764380815" duration="14000" />
+      <workItem from="1707767673064" duration="4056000" />
+      <workItem from="1707771778450" duration="4113000" />
+      <workItem from="1707800384846" duration="66000" />
+      <workItem from="1707844169311" duration="177000" />
+      <workItem from="1707845909162" duration="1739000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Alishev GenericBox">
       <option name="closed" value="true" />
@@ -226,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707158703110</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit Alishev Generic2">
+      <option name="closed" value="true" />
+      <created>1707241899137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707241899137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,6 +399,31 @@
           <url>file://$PROJECT_DIR$/src/CollectionAlishev/LinkedList005/Generic/GeneircIntSwap.java</url>
           <line>19</line>
           <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/Main1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/ArrayListFile.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/ArrayListFile.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaCollectionFramework2024/ArrayList/ArrayListFile.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="198" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/io/hexlet/oop/methodFunctionExample.java</url>

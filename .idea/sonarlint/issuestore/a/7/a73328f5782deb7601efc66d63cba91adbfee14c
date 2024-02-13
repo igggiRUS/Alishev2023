@@ -1,0 +1,20 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÿåÝ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³çò’úÿÿÿÿ
+S
+java:S1854/"8Remove this useless assignment to local variable "list".(¶›Þûùÿÿÿÿ
+S
+java:S1854+"8Remove this useless assignment to local variable "list".(Ò¢Íæýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ç‘¦Õþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ëÊÐüÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(í´û¤úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(õ‚Á½øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(õÎµò
+E	java:S106"+Replace this use of System.out by a logger.(ÃÆÔ¬ùÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(üÚ×§
+@	java:S106("+Replace this use of System.out by a logger.(—¼½Â
+D
+java:S1481+")Remove this unused "list" local variable.(Ò¢Íæýÿÿÿÿ
+;
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©
